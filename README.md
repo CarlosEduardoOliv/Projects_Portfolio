@@ -20,6 +20,7 @@ My credentials include a Master's in Environmental Science and Technology from t
 * [Portfólio](https://github.com/CarlosEduardoOliv/Projects_Portfolio)
 * [LinkedIn](https://www.linkedin.com/in/carloseduardoaoliveira/)
 * [Medium](https://medium.com/@Carlos_Eduardo_Oliveira)
+* [Currículo](https://bit.ly/3DdJjeu)
 
 
 ## Projetos:

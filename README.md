@@ -8,7 +8,7 @@ Meu Portfólio Pessoal de Projetos.
 </p>
 
 # Carlos Eduardo Oliveira
-<sub>*Data Analyst/Scientist*</sub>
+<sub>*Data Scientist Specialist in Python*</sub>
 
 I have a deep background in Bioinformatics. Now, I am migrating to Data Analytics and Data Science. I am also learning Python, R and SQL.
 

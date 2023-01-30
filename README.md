@@ -14,13 +14,12 @@ I have a deep background in Bioinformatics. Now, I am migrating to Data Analytic
 
 My credentials include a Master's in Environmental Science and Technology from the State University of Rio de Janeiro (UERJ). Also, I am on my way to obtain a Google Certificate Data Analytics.
 
-**Skills:** Data Science Specialist in Python. Data Analytics | R | SQL.
+**Skills:** Analytics | Data Science | Python | SQL .
 
 **Links:**
-* [Portfólio](https://github.com/CarlosEduardoOliv/Projects_Portfolio)
 * [LinkedIn](https://www.linkedin.com/in/carloseduardoaoliveira/)
 * [Medium](https://medium.com/@Carlos_Eduardo_Oliveira)
-* [Currículo](https://bit.ly/3DdJjeu)
+* [Currículo]([https://bit.ly/3DdJjeu](https://www.figma.com/file/7YFyQepQGMDvrn6pX3bZjh/Curr%C3%ADculo---Data-Scientist?node-id=0%3A1&t=Kgf5zx4X1pzbZM88-0)
 
 
 ## Projetos:

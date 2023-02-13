@@ -24,10 +24,10 @@ My credentials include a Master's in Environmental Science and Technology from t
 
 ## Projects:
 
-**Projects Lists (building):**
+*Projects Lists (building):*
 
 **Lógica de Programação:**
-* **Biscoito da fortuna com Python:** https://colab.research.google.com/drive/1MBO-Kmh9P2uZmCfupTV5khIxoel9SoX7
+* **Verificador de ano bissexto, usando Python:** https://colab.research.google.com/drive/1MBO-Kmh9P2uZmCfupTV5khIxoel9SoX7
 
 **Analytics Projects:**
 * **Project 1:** link

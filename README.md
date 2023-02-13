@@ -26,13 +26,8 @@ My credentials include a Master's in Environmental Science and Technology from t
 
 **Projects Lists (building):**
 
-**Python Projects:**
-* **Biscoito da fortuna com Python:** https://bit.ly/3DguuIy
-* **Contador de palavras:** https://bit.ly/3BmLudy
-* **Adivinhador de números:** https://bit.ly/3dqC9Ju
-
-**Data Science Projects:**
-* **Relação entre o mês e locais de acidentes de carro na cidade de São Paulo (DETRAN-SP) no ano de 2020:** https://bit.ly/3B3cm1P
+**Lógica de Programação:**
+* **Biscoito da fortuna com Python:** https://colab.research.google.com/drive/1MBO-Kmh9P2uZmCfupTV5khIxoel9SoX7
 
 **Analytics Projects:**
 * **Project 1:** link

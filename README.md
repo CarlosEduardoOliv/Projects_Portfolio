@@ -19,7 +19,7 @@ My credentials include a Master's in Environmental Science and Technology from t
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/carloseduardoaoliveira/)
 * [Medium](https://medium.com/@Carlos_Eduardo_Oliveira)
-* [Currículo](https://www.figma.com/file/7YFyQepQGMDvrn6pX3bZjh/Curr%C3%ADculo---Data-Scientist?node-id=0%3A1&t=Kgf5zx4X1pzbZM88-0)
+* [Currículo](https://www.figma.com/file/7YFyQepQGMDvrn6pX3bZjh/Curr%C3%ADculo---2023?node-id=0%3A1&t=N2uceuXISeVohuJW-0)
 
 
 ## Projects:

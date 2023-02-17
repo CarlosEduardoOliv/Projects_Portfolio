@@ -28,8 +28,17 @@ My credentials include a Master's in Environmental Science and Technology from t
 
 **Lógica de Programação:**
 * **Verificador de ano bissexto, usando Python:** https://colab.research.google.com/drive/1MBO-Kmh9P2uZmCfupTV5khIxoel9SoX7
+* **Progranmação em Python:** https://colab.research.google.com/drive/1brDIFJNwlpOzlsupTeuKVYR7P0AhUME9
+* **Programação em R:** https://colab.research.google.com/drive/1qkXmyqMb-duNtG3HT0wg0uGGsdLHp_Wc
 
-**Analytics Projects:**
-* **Project 1:** link
+**Analytics:**
+* **Análise Preditiva e Descritiva com Python:** https://colab.research.google.com/drive/1RsPX3WeoXKWRRiDKk4x0NdTxFkAVJbpZ
+* **Análise Preditiva e Descritiva com R:** https://colab.research.google.com/drive/1BaWD9ZTNzu5k3eJvmVRptQsrS6PlJsOF
+
+**Data Science:**
+* **Project name:** link
+
+**Python:**
+* **Project name:** link
 
 ---

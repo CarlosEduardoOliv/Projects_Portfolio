@@ -30,6 +30,6 @@ My credentials include a Master's in Environmental Science and Technology from t
 * **Aplicação de Modelo Analítico com R:** https://colab.research.google.com/drive/1TDRRZKLAXfkQud2cDafYZGNrS3ZM5qWN#scrollTo=CJX4LMzbg0Dd
 * **Progranmação em Python:** https://colab.research.google.com/drive/1brDIFJNwlpOzlsupTeuKVYR7P0AhUME9
 * **Programação em R:** https://colab.research.google.com/drive/1qkXmyqMb-duNtG3HT0wg0uGGsdLHp_Wc
-* **Verificador de ano bissexto, usando Python:** https://colab.research.google.com/drive/1MBO-Kmh9P2uZmCfupTV5khIxoel9SoX7
+* **Verificador de ano bissexto usando Python:** https://colab.research.google.com/drive/1MBO-Kmh9P2uZmCfupTV5khIxoel9SoX7
 
 ---

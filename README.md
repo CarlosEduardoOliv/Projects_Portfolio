@@ -24,12 +24,12 @@ My credentials include a Master's in Environmental Science and Technology from t
 
 ## Projects:
 
-* **Análise Preditiva e Descritiva com Python:** https://colab.research.google.com/drive/1RsPX3WeoXKWRRiDKk4x0NdTxFkAVJbpZ
-* **Análise Preditiva e Descritiva com R:** https://colab.research.google.com/drive/1BaWD9ZTNzu5k3eJvmVRptQsrS6PlJsOF
-* **Aplicação de Modelo Analítico com Python:** https://colab.research.google.com/drive/1Q937va73oorbb8_WhG12KwMTPE6NH0gW
-* **Aplicação de Modelo Analítico com R:** https://colab.research.google.com/drive/1TDRRZKLAXfkQud2cDafYZGNrS3ZM5qWN#scrollTo=CJX4LMzbg0Dd
-* **Programação em Python:** https://colab.research.google.com/drive/1brDIFJNwlpOzlsupTeuKVYR7P0AhUME9
-* **Programação em R:** https://colab.research.google.com/drive/1qkXmyqMb-duNtG3HT0wg0uGGsdLHp_Wc
-* **Verificador de ano bissexto usando Python:** https://colab.research.google.com/drive/1MBO-Kmh9P2uZmCfupTV5khIxoel9SoX7
+* **Predictive and Descriptive Analysis with Python | Análise Preditiva e Descritiva com Python:** https://colab.research.google.com/drive/1RsPX3WeoXKWRRiDKk4x0NdTxFkAVJbpZ
+* **Predictive and Descriptive Analysis with R | Análise Preditiva e Descritiva com R:** https://colab.research.google.com/drive/1BaWD9ZTNzu5k3eJvmVRptQsrS6PlJsOF
+* **Analytical Model Application with Python | Aplicação de Modelo Analítico com Python:** https://colab.research.google.com/drive/1Q937va73oorbb8_WhG12KwMTPE6NH0gW
+* **Analytical Model Application with R | Aplicação de Modelo Analítico com R:** https://colab.research.google.com/drive/1TDRRZKLAXfkQud2cDafYZGNrS3ZM5qWN#scrollTo=CJX4LMzbg0Dd
+* **Python Programming | Programação em Python:** https://colab.research.google.com/drive/1brDIFJNwlpOzlsupTeuKVYR7P0AhUME9
+* **R Programming | Programação em R:** https://colab.research.google.com/drive/1qkXmyqMb-duNtG3HT0wg0uGGsdLHp_Wc
+* **Leap Year Checker using Python | Verificador de ano bissexto usando Python:** https://colab.research.google.com/drive/1MBO-Kmh9P2uZmCfupTV5khIxoel9SoX7
 
 ---
